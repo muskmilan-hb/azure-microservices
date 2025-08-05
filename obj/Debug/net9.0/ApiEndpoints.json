@@ -1,0 +1,88 @@
+[
+  {
+    "ContainingType": "Wpm.Management.Api.Controllers.BreedsController",
+    "Method": "Get",
+    "RelativePath": "api/Breeds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wpm.Management.Api.Controllers.BreedsController",
+    "Method": "Create",
+    "RelativePath": "api/Breeds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newBreed",
+        "Type": "Wpm.Management.Api.Controllers.NewBreed",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wpm.Management.Api.Controllers.BreedsController",
+    "Method": "GetBreedById",
+    "RelativePath": "api/Breeds/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetBreedById"
+  },
+  {
+    "ContainingType": "Wpm.Management.Api.Controllers.PetsController",
+    "Method": "Get",
+    "RelativePath": "api/Pets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wpm.Management.Api.Controllers.PetsController",
+    "Method": "Create",
+    "RelativePath": "api/Pets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newPet",
+        "Type": "Wpm.Management.Api.Controllers.NewPet",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wpm.Management.Api.Controllers.PetsController",
+    "Method": "GetById",
+    "RelativePath": "api/Pets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetById"
+  }
+]
