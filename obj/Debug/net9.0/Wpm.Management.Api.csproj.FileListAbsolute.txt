@@ -45,3 +45,4 @@ C:\Users\priya\Projects\azure-ms\src\Wpm.Management.Api\bin\Debug\net9.0\Microso
 C:\Users\priya\Projects\azure-ms\src\Wpm.Management.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\priya\Projects\azure-ms\src\Wpm.Management.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\priya\Projects\azure-ms\src\Wpm.Management.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\Projects\azure-ms\src\Wpm.Management.Api\obj\Debug\net9.0\Wpm.Management.Api.sourcelink.json
